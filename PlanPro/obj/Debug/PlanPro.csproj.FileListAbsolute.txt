@@ -1,0 +1,9 @@
+C:\Users\Администратор\Documents\VS Code\PlanPro\bin\Debug\PlanPro.exe.config
+C:\Users\Администратор\Documents\VS Code\PlanPro\bin\Debug\PlanPro.exe
+C:\Users\Администратор\Documents\VS Code\PlanPro\bin\Debug\PlanPro.pdb
+C:\Users\Администратор\Documents\VS Code\PlanPro\obj\Debug\PlanPro.csproj.AssemblyReference.cache
+C:\Users\Администратор\Documents\VS Code\PlanPro\obj\Debug\PlanPro.Properties.Resources.resources
+C:\Users\Администратор\Documents\VS Code\PlanPro\obj\Debug\PlanPro.csproj.GenerateResource.cache
+C:\Users\Администратор\Documents\VS Code\PlanPro\obj\Debug\PlanPro.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Documents\VS Code\PlanPro\obj\Debug\PlanPro.exe
+C:\Users\Администратор\Documents\VS Code\PlanPro\obj\Debug\PlanPro.pdb
